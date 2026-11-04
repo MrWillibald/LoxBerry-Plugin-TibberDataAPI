@@ -1,0 +1,3 @@
+MAILTO=""
+# Läuft jede Minute; das Skript prüft selbst das eingestellte Abfrageintervall
+* * * * * loxberry /usr/bin/python3 REPLACELBPBINDIR/tibber_data_mqtt.py --cron >> REPLACELBPLOGDIR/tibberdata.log 2>&1

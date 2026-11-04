@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "interval_min": 5,
+  "client_id": "",
+  "client_secret": "",
+  "redirect_uri": "http://localhost:8080/callback",
+  "topic_prefix": "tibberdata",
+  "retain": true,
+  "publish_attributes": true,
+  "publish_units": false
+}
