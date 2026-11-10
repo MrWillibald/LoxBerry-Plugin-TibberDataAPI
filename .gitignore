@@ -3,3 +3,4 @@ __pycache__/
 config/tokens.json
 data/*.json
 data/run.lock
+dist/
