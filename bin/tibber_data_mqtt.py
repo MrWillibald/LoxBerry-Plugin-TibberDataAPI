@@ -38,7 +38,7 @@ import urllib.parse
 import urllib.request
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-VERSION = "1.0.0"
+VERSION = "0.9.0"
 
 # Diese Platzhalter ersetzt LoxBerry bei der Installation durch die Plugin-Ordner.
 CONFIG_DIR = "REPLACELBPCONFIGDIR"
