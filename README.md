@@ -4,7 +4,7 @@ Das Plugin liest alle Geräte aus der Tibber Data API aus: E-Autos (SoC, Reichwe
 
 Voraussetzung ist LoxBerry 3.0 oder neuer (getestet mit LoxBerry 4.0). Zusätzliche Pakete braucht das Plugin nicht.
 
-Das Plugin ist noch in der **Beta-Phase**. Beschreibung und Diskussion: [LoxBerry-Wiki](https://wiki.loxberry.de/plugins/tibberdata/start).
+Das Plugin ist noch in der **Beta-Phase**. Beschreibung und Diskussion: [LoxBerry-Wiki](https://wiki.loxberry.de/plugins/tibber_data_api/start).
 
 ## Installation
 
